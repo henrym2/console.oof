@@ -2,9 +2,12 @@
 
 ## Installation and usage
 
-Ever felt like your console.log messages weren't fun enough? \\
-Your code not bullying you enough? \\
-Want something more interesting than "BROKEN HERE" in your log messages? \\
+Ever felt like your console.log messages weren't fun enough? 
+
+Your code not bullying you enough? 
+
+Want something more interesting than "BROKEN HERE" in your log messages? 
+
 Deathly afraid of the debugger?
 
 Fear not, for this is the package for you! Simply require the module and let the Oof's flow free. 
