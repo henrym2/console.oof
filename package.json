@@ -1,6 +1,6 @@
 {
   "name": "@henrym2/console.oof",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Colorful console.log messages for when console.log doesn't quite capture your rage",
   "main": "index.js",
   "scripts": {
