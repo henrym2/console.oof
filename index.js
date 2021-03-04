@@ -27,7 +27,6 @@ const seed = () => Math.floor(Math.random() * 100)
 
 function genStyle(phrase) {
     const styleCount = phrase.split("\%c").length-1
-    console.log(styleCount)
     let styles = []
     for (let i = 0; i < styleCount; i++) {
         styles.push(
