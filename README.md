@@ -10,7 +10,7 @@ Deathly afraid of the debugger?
 Fear not, for this is the package for you! Simply require the module and let the Oof's flow free. 
 
 ```bash
-npm i console.oof
+npm install @henrym2/console.oof@0.1.0
 ```
 
 ```javascript
